@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f472541d3a07442dd9eddf13c49f3ea1, type: 3}
+  m_Name: TetrisBlocks
+  m_EditorClassIdentifier: 
+  Value:
+  - {fileID: 3833398608204740946, guid: 85608b0b3fb0e43bfa70421cee0401e0, type: 3}
+  - {fileID: 8413298882582366965, guid: cd3e2ed88ae534a398bd503200ff7893, type: 3}
+  - {fileID: 8413298882582366965, guid: 945d5f88ca817456ea0824aa3cf48fc0, type: 3}
+  - {fileID: 8413298882582366965, guid: 900a95ed823094fcdb2eda5acef30b91, type: 3}
+  - {fileID: 8413298882582366965, guid: 50fc181f227e343a9896cc450c10d25b, type: 3}
+  - {fileID: 8413298882582366965, guid: 52ba7280cf91a425e941b0c81c3773df, type: 3}
+  - {fileID: 8413298882582366965, guid: 1d2927d1c8d3b4424b31bf2611f66240, type: 3}

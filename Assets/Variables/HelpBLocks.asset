@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f472541d3a07442dd9eddf13c49f3ea1, type: 3}
+  m_Name: HelpBLocks
+  m_EditorClassIdentifier: 
+  Value:
+  - {fileID: 3833398608204740946, guid: 6aadc09181ff74490a114649bb8e7d95, type: 3}
+  - {fileID: 8413298882582366965, guid: ed560f5aecf474c4f8edf4aec28211c3, type: 3}
+  - {fileID: 8413298882582366965, guid: ec4024a45f33e4f6c80d753176b90f39, type: 3}
+  - {fileID: 8413298882582366965, guid: 56150e82bf93c4015ace310e9742093a, type: 3}
+  - {fileID: 8413298882582366965, guid: 374f6942dd2ab43fa93f343e21100d48, type: 3}
+  - {fileID: 8413298882582366965, guid: b706c616cf45a4b7480c3e63de0282f4, type: 3}
+  - {fileID: 8413298882582366965, guid: ec8eb0fc1bea54f7d8c0f6449f86b828, type: 3}
